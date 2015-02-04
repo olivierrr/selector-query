@@ -1,0 +1,29 @@
+{
+  "name": "selector-query",
+  "version": "1.0.0",
+  "description": "inverse document.querySelect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olivierrr/selector-query.git"
+  },
+  "keywords": [
+    "dom",
+    "querySelect",
+    "selectQuery",
+    "query",
+    "select",
+    "inverse",
+    "reverse",
+    "selector"
+  ],
+  "author": "olivierrr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olivierrr/selector-query/issues"
+  },
+  "homepage": "https://github.com/olivierrr/selector-query"
+}
