@@ -1,7 +1,7 @@
 {
   "name": "selector-query",
-  "version": "1.0.0",
-  "description": "inverse document.querySelect",
+  "version": "1.0.1",
+  "description": "inverse document.querySelector",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,7 @@
     "querySelect",
     "selectQuery",
     "query",
-    "select",
+    "selector",
     "inverse",
     "reverse",
     "selector"
